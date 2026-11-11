@@ -2826,5 +2826,19 @@
         "act_param": null,
         "date": "2025-04-14",
         "prefill": false
+    },
+    "affine-uum8d-s4": {
+        "link": "https://affine.earth/leaderboard",
+        "open-data": "Full",
+        "pass@1": {
+            "instruct": 100,
+            "complete": 100
+        },
+        "prompted": true,
+        "moe": false,
+        "size": null,
+        "act_param": null,
+        "date": "2026-11-09",
+        "prefill": false
     }
 }
